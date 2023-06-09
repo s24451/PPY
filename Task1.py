@@ -1,6 +1,6 @@
 import numpy as np
 
-# Load the CSV file
+
 data = np.genfromtxt('Data\Task_1.csv', delimiter=';', skip_header=1)
 
 
